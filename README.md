@@ -1,2 +1,7 @@
 # basededatos
-Base de datos , proyecto sistema de gestion y control lismary vasquez 28609773, mary tandioy 29945372, nelson canelon 29707895, irene chirinos 28566476, reiby brito 28614902, luismar sanchez 29737991 
+Participantes en el desarrollo de: Base de datos, Proyecto Sistema De Gestion y Control:
+Lismary Vasquez V28609773.
+Mary Tandioy V29945372.
+Nelson Canelon V29707895.
+Irene Chirinos V28566476.
+Reiby Brito V28614902.
